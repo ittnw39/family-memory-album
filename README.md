@@ -6,7 +6,7 @@
 
 ### 1. 메인 화면 및 이미지 업로드
 <div align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/d081faf3-7509-46b9-8c23-415fc71b0b95)" alt="메인 화면 및 이미지 업로드 데모" width="800"/>
+  <img src="https://github.com/user-attachments/assets/d081faf3-7509-46b9-8c23-415fc71b0b95" alt="메인 화면 및 이미지 업로드 데모" width="800"/>
 </div>
 
 - 직관적인 사용자 인터페이스로 쉽게 이미지를 업로드할 수 있습니다.
@@ -14,7 +14,7 @@
 
 ### 2. 이미지 분석 및 질문 생성
 <div align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/82fb3094-054f-4263-bedf-33cce7cfffa6)" alt="이미지 분석 및 질문 생성 데모" width="800"/>
+  <img src="https://github.com/user-attachments/assets/82fb3094-054f-4263-bedf-33cce7cfffa6" alt="이미지 분석 및 질문 생성 데모" width="800"/>
 </div>
 
 - Vision API를 통해 이미지의 다양한 특성을 자동으로 분석합니다:
@@ -30,7 +30,7 @@
 
 ### 3. 답변 저장 및 다운로드
 <div align="center">
-  <img src="GIF_URL을 여기에 붙여넣으세요" alt="답변 저장 데모" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3e0c4d97-ca43-4ed9-a738-65615b8bb0b9" alt="답변 저장 데모" width="800"/>
 </div>
 
 - 각 질문에 대한 답변을 자유롭게 입력할 수 있습니다.
