@@ -37,6 +37,69 @@
 - 입력된 모든 답변과 분석 결과는 JSON 형식으로 저장됩니다.
 - 저장된 데이터는 즉시 다운로드 가능합니다.
 
+<details>
+<summary>📥 저장된 JSON 데이터 예시</summary>
+
+<div style="height: 300px; overflow-y: auto;">
+
+```json
+{
+  "memory_id": "20250214_185038",
+  "timestamp": "2025-02-14 18:50:38",
+  "image_analysis": {
+    "location": "실외",
+    "time": "저녁",
+    "season": "여름",
+    "weather": "맑음",
+    "people": "2명의 사람들",
+    "mood": "평온한",
+    "activity": "일상적인 활동",
+    "special_elements": [
+      "People",
+      "Beach",
+      "Body of water",
+      "Shorts",
+      "Summer"
+    ]
+  },
+  "answers": {
+    "질문_1": {
+      "question": "바닷가에서 보낸 시간 중 가장 행복했던 순간은 언제였나요?",
+      "answer": "맨발로 해변을 걷고 가족들과 불꽃놀이를 즐겼던 순간입니다."
+    },
+    "질문_2": {
+      "question": "더운 여름날이었던 것 같은데, 이 날의 날씨나 분위기가 기억나시나요?",
+      "answer": "매우 덥고 햇빛이 강했지만 바다에 들어가서 시원했습니다. 아이들이 굉장히 좋아했습니다."
+    },
+    "질문_3": {
+      "question": "이 사진을 찍게 된 특별한 계기가 있으셨나요?",
+      "answer": "아이와 아빠의 뒷모습이 너무 잘어울렸습니다."
+    }
+  },
+  "keywords": {
+    "RELATIONSHIPS": [
+      "가족",
+      "친구"
+    ],
+    "EMOTIONS": [
+      "평온"
+    ],
+    "ACTIVITIES": [
+      "People",
+      "Beach",
+      "Body of water"
+    ],
+    "MEMORIES": [
+      "추억",
+      "소중한 순간"
+    ]
+  }
+}
+```
+
+</div>
+</details>
+
 ## 프로젝트 개요
 
 이 프로젝트는 다음과 같은 AI 기능들을 테스트하고 검증하기 위해 개발되었습니다!
