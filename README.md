@@ -113,6 +113,11 @@
 ### AI & 클라우드
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### 라이브러리
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Base64](https://img.shields.io/badge/Base64-666666?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADSSURBVCiRrdKxSgNBFIXhb9dgLIKksbATBBsrX8FafAXB0kdI5RtoYeML2FooCm6VJqW1hYVFUNOIoI2VmF3HYu9iFk0S8MDAH+7cM+fOZGmtVcaYA9zho+i9HGNc5FrRQVqrVNUL7nGJDvpT+xS3eItzPOErNfyDF/ShqhZV9Y1ZY8xpZh4ZY/aXDVR1hm5K6QS7/0GdlNJxB6iqG7zjLMa4P4f9wVPRB9jGL0YxxqExxsUY92KMp8aYkaq+YgM7uMEHhsuuXcJt/NYVF1jH5h/XJXkk1DqUEQAAAABJRU5ErkJggg==&logoColor=white)
+
 ### 개발 도구
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
