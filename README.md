@@ -37,10 +37,14 @@
 - 입력된 모든 답변과 분석 결과는 JSON 형식으로 저장됩니다.
 - 저장된 데이터는 즉시 다운로드 가능합니다.
 
-<details>
-<summary>📥 저장된 JSON 데이터 예시</summary>
+### 💾 저장 데이터 형식
 
-<div style="height: 300px; overflow-y: auto;">
+> 아래는 실제 생성된 JSON 데이터의 예시입니다. 클릭하여 펼쳐보세요.
+
+<details>
+<summary><b>📥 JSON 데이터 구조 보기</b></summary>
+
+<div style="height: 300px; overflow-y: auto; background-color: #f8f9fa; padding: 15px; border-radius: 5px;">
 
 ```json
 {
