@@ -1,6 +1,10 @@
 # 우리 가족 추억 앨범 (테스트 프로젝트)
 
-> ⚠️ **참고사항**: 이 프로젝트는 Google Cloud Vision API를 활용한 이미지 분석 및 질문 생성 기능을 테스트하기 위한 임시 프로젝트입니다. 향후 다른 프로젝트에서 사용될 AI 기능의 프로토타입으로 개발되었습니다 !
+> ⚠️ **참고사항**: 이 프로젝트는 Google Cloud Vision API를 활용한 이미지 분석 및 질문 생성 기능을 테스트하기 위한 임시 프로젝트입니다. 향후 다른 프로젝트에서 사용될 AI 기능의 프로토타입으로 개발되었습니다.
+
+
+---
+
 
 ## 프로젝트 데모
 
@@ -11,6 +15,7 @@
 
 - 직관적인 사용자 인터페이스로 쉽게 이미지를 업로드할 수 있습니다.
 - 드래그 앤 드롭 또는 파일 선택 버튼을 통해 이미지를 업로드할 수 있습니다.
+
 
 ### 2. 이미지 분석 및 질문 생성
 <div align="center">
@@ -28,6 +33,7 @@
   - 특별한 순간을 회상하는 질문
   - 감정과 관련된 질문
 
+
 ### 3. 답변 저장 및 다운로드
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3e0c4d97-ca43-4ed9-a738-65615b8bb0b9" alt="답변 저장 데모" width="800"/>
@@ -36,6 +42,7 @@
 - 각 질문에 대한 답변을 자유롭게 입력할 수 있습니다.
 - 입력된 모든 답변과 분석 결과는 JSON 형식으로 저장됩니다.
 - 저장된 데이터는 즉시 다운로드 가능합니다.
+
 
 ### 💾 저장 데이터 형식
 
@@ -104,33 +111,39 @@
 </div>
 </details>
 
+
+---
+
+
 ## 기술 스택
+> 이 프로젝트는 다음과 같은 기술 스택으로 구현되었습니다.
 
 ### 언어 및 프레임워크
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+
 ### AI & 클라우드
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### 라이브러리
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Base64](https://img.shields.io/badge/Base64-666666?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADSSURBVCiRrdKxSgNBFIXhb9dgLIKksbATBBsrX8FafAXB0kdI5RtoYeML2FooCm6VJqW1hYVFUNOIoI2VmF3HYu9iFk0S8MDAH+7cM+fOZGmtVcaYA9zho+i9HGNc5FrRQVqrVNUL7nGJDvpT+xS3eItzPOErNfyDF/ShqhZV9Y1ZY8xpZh4ZY/aXDVR1hm5K6QS7/0GdlNJxB6iqG7zjLMa4P4f9wVPRB9jGL0YxxqExxsUY92KMp8aYkaq+YgM7uMEHhsuuXcJt/NYVF1jH5h/XJXkk1DqUEQAAAABJRU5ErkJggg==&logoColor=white)
 
+
 ### 개발 도구
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+---
+
+
 ## 프로젝트 개요
-
-이 프로젝트는 다음과 같은 AI 기능들을 테스트하고 검증하기 위해 개발되었습니다!
-
-- Google Cloud Vision API를 통한 이미지 분석
-- 분석된 데이터를 기반으로 한 맥락 기반 질문 생성
-- 사용자 응답 데이터의 JSON 형식 저장 및 관리
-- Streamlit을 활용한 웹 인터페이스 구현
+> 이 프로젝트는 AI를 활용한 가족 사진 분석 및 추억 기록을 위한 테스트 프로젝트입니다.
 
 ## 테스트 가능한 기능
 
